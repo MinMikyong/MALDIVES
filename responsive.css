@@ -1,0 +1,30 @@
+@media  only screen and (max-width: 880px) {
+    .navlist{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        height: 500px;
+        transition: all 0.5s ease;
+    }
+    .right-nav{
+        text-align: center;
+    }
+    .burger{
+        display: block;
+    }
+    .nav-collapse{
+        opacity: 0;
+    }
+    .h-nav{
+        height: 50px;
+    }
+    #thirdsec{
+        flex-direction: column;
+    }
+    #service{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
