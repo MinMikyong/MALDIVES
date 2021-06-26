@@ -75,7 +75,7 @@
     height: 800px;
 }
 .bg1{
-    background: rgb(0,0,0,0.5) url("b3.jpg");
+    background: rgb(0,0,0,0.5) url("/images/b3.jpg");
     background-blend-mode: darken;
     background-repeat: no-repeat;
 }
@@ -136,7 +136,7 @@
     border-radius: 23px;
     font-style: italic;
     color: white;
-    background: rgb(0,0,0,0.5) url("bg2.jpg");
+    background: rgb(0,0,0,0.5) url("/images/bg2.jpg");
     background-blend-mode: darken;
 }
 .boxx:hover{
@@ -162,7 +162,7 @@
     margin: 3px 6px;
     padding: 34px;
     border-radius: 23px;
-    background: rgb(243, 243, 243,0.5)url("cloud.jpg");
+    background: rgb(243, 243, 243,0.5)url("/images/cloud.jpg");
     background-blend-mode: lighten;
     transition: img 0.5s ease-in-out;
 }
@@ -186,7 +186,7 @@
 }
 /* the last section */
 #contact{
-    background: rgb(0,0,0,0.5) url("bg1.jpg");
+    background: rgb(0,0,0,0.5) url("/images/bg1.jpg");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     text-align: center;
